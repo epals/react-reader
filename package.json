@@ -47,7 +47,7 @@
     "styled-components-breakpoint": "^2.1.1"
   },
   "dependencies": {
-    "epubjs": "^0.3.88",
+    "epubjs": "github:epals/epub.js",
     "prop-types": "^15.7.2",
     "react-swipeable": "^5.5.1"
   },
